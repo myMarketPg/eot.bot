@@ -1,4 +1,5 @@
 node_modules
 .dockerignore
 .env
-
+core.class.log
+queue.class.log
